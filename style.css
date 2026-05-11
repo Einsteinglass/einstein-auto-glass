@@ -1,4 +1,4 @@
-body{margin:0;font-family:Arial,sans-serif;background:#050505;color:white}.container{width:min(1100px,90%);margin:auto}.header{background:black;padding:20px 0;border-bottom:1px solid rgba(255,204,0,.2)}.nav{display:flex;justify-content:space-between;align-items:center}.logo{height:90px}.call-btn,.primary-btn,.secondary-btn{text-decoration:none;padding:14px 22px;border-radius:10px;font-weight:bold;display:inline-block}.call-btn,.primary-btn{background:#facc15;color:black}.secondary-btn{border:1px solid #facc15;color:#facc15;margin-left:10px}..hero{
+body{margin:0;font-family:Arial,sans-serif;background:#050505;color:white}.container{width:min(1100px,90%);margin:auto}.header{background:black;padding:20px 0;border-bottom:1px solid rgba(255,204,0,.2)}.nav{display:flex;justify-content:space-between;align-items:center}.logo{height:90px}.call-btn,.primary-btn,.secondary-btn{text-decoration:none;padding:14px 22px;border-radius:10px;font-weight:bold;display:inline-block}.call-btn,.primary-btn{background:#facc15;color:black}.secondary-btn{border:1px solid #facc15;color:#facc15;margin-left:10px}.hero{
 min-height:700px;
 display:flex;
 align-items:center;
