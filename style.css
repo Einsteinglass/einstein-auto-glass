@@ -1,18 +1,20 @@
 body{margin:0;font-family:Arial,sans-serif;background:#050505;color:white}.container{width:min(1100px,90%);margin:auto}.header{background:black;padding:20px 0;border-bottom:1px solid rgba(255,204,0,.2)}.nav{display:flex;justify-content:space-between;align-items:center}.logo{height:90px}.call-btn,.primary-btn,.secondary-btn{text-decoration:none;padding:14px 22px;border-radius:10px;font-weight:bold;display:inline-block}.call-btn,.primary-btn{background:#facc15;color:black}.secondary-btn{border:1px solid #facc15;color:#facc15;margin-left:10px}.hero{
-min-height:700px;
+min-height:720px;
 display:flex;
 align-items:center;
 background:
 linear-gradient(
 90deg,
-rgba(0,0,0,.82) 0%,
-rgba(0,0,0,.58) 35%,
-rgba(0,0,0,.18) 60%,
-rgba(0,0,0,.05) 100%
+rgba(0,0,0,.88) 0%,
+rgba(0,0,0,.68) 34%,
+rgba(0,0,0,.28) 62%,
+rgba(0,0,0,.08) 100%
 ),
 url('hero2.jpg');
-
 background-size:cover;
-background-position:center center;
+background-position:center 45%;
 background-repeat:no-repeat;
+}.hero-inner{
+max-width:720px;
+padding:40px 0;
 }.eyebrow{color:#facc15;font-weight:bold;text-transform:uppercase;letter-spacing:2px}.sub{font-size:20px;color:#ccc;max-width:700px}.services{padding:70px 0}.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}.card{background:#111;padding:25px;border-radius:20px}.footer{padding:50px 0;text-align:center;border-top:1px solid rgba(255,204,0,.2)}@media(max-width:900px){h1{font-size:42px}.cards{grid-template-columns:1fr}.logo{height:60px}}
