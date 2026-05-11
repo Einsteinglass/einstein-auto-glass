@@ -3,9 +3,15 @@ min-height:700px;
 display:flex;
 align-items:center;
 background:
-linear-gradient(90deg,rgba(0,0,0,.78),rgba(0,0,0,.42),rgba(0,0,0,.08)),
+linear-gradient(
+90deg,
+rgba(0,0,0,.72),
+rgba(0,0,0,.38),
+rgba(0,0,0,.10)
+),
 url('hero2.jpg');
-background-size:cover;
-background-position:center 62%;
+background-size:contain;
+background-position:right center;
 background-repeat:no-repeat;
+background-color:#050505;
 }.eyebrow{color:#facc15;font-weight:bold;text-transform:uppercase;letter-spacing:2px}.sub{font-size:20px;color:#ccc;max-width:700px}.services{padding:70px 0}.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}.card{background:#111;padding:25px;border-radius:20px}.footer{padding:50px 0;text-align:center;border-top:1px solid rgba(255,204,0,.2)}@media(max-width:900px){h1{font-size:42px}.cards{grid-template-columns:1fr}.logo{height:60px}}
