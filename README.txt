@@ -1,1 +1,1 @@
-Save your Einstein logo in this folder as logo.png
+Einstein Auto Glass website files.
