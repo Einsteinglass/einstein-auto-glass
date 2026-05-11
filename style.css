@@ -58,20 +58,22 @@ font-size:20px;
 }
 
 .hero{
-min-height:760px;
+min-height:900px;
 display:flex;
 align-items:center;
+
 background:
 linear-gradient(
 90deg,
-rgba(0,0,0,.92) 0%,
-rgba(0,0,0,.78) 30%,
-rgba(0,0,0,.45) 55%,
-rgba(0,0,0,.12) 100%
+rgba(0,0,0,.82) 0%,
+rgba(0,0,0,.58) 35%,
+rgba(0,0,0,.22) 60%,
+rgba(0,0,0,.08) 100%
 ),
 url('hero2.jpg');
+
 background-size:cover;
-background-position:center;
+background-position:center center;
 background-repeat:no-repeat;
 }
 
